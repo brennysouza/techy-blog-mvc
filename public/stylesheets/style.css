@@ -1,0 +1,140 @@
+:root {
+
+}
+
+* {
+    box-sizing: border-box;
+ 
+  }
+
+body, html, input, textarea {
+
+}
+
+a {
+
+}
+
+.homepage {
+
+}
+
+a:hover {
+
+}
+
+.blogTitle {
+
+}
+
+.submit-btn {
+
+}
+
+.submit-btn:hover {
+
+}
+
+button {
+
+}
+
+button:hover{
+  
+}
+
+.listPost {
+   
+}
+
+textarea, input {
+
+}
+
+textarea:focus, input:focus {
+  
+}
+
+textarea {
+
+}
+
+form > div {
+    
+}
+
+form label {
+   
+}
+
+.bloghead {
+
+}
+
+header {
+
+}
+
+header h1 {
+  
+}
+
+main {
+
+}
+
+.btn-no-style {
+
+}
+
+.btn-no-style:hover {
+  
+}
+
+.delete-post-btn {
+
+}
+  
+  .delete-post-btn:hover {
+
+}
+
+.postSection {
+   
+}
+
+.postSection .title span {
+
+}
+
+.editPost {
+
+}
+
+.comment-form {
+    
+}
+
+.comment {
+
+}
+
+.comment:nth-child(odd) {
+   
+}
+
+.comment .commentResult {
+
+}
+
+.new-post-form input {
+  
+}
+
+.edit-post-form {
+   
+}
+
+footer {
+
+}
